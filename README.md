@@ -1,5 +1,5 @@
 # Project Odin Recipes
 
-This is a simple recipe site created with html.
+This is a simple recipe site created with html and css.
 
-https://sanmert.github.io/odin_recipes/
+https://sanmert.github.io/odin_recipes_css/
