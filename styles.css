@@ -1,0 +1,17 @@
+.head {
+    color: rgb(59, 230, 96);
+    font-size: 150%;
+    text-align: center;
+}
+
+.links {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
