@@ -1,12 +1,19 @@
 .head {
-    color: rgb(59, 230, 96);
-    font-size: 150%;
+    color: rgb(230, 59, 68);
+    font-size: 160%;
     text-align: center;
+}
+
+.head.recipe {
+    color: rgb(54, 97, 110);
+    background-color: rgb(0, 255, 157);
+    
 }
 
 .links {
     color: rgb(255, 255, 255);
     text-align: center;
+    font-size:x-large;
 }
 
 .img {
@@ -14,4 +21,14 @@
     margin-left: auto;
     margin-right: auto;
     width: 40%;
+}
+
+.img.recipe {
+    width: 20%;
+}
+
+.althead {
+    margin-left: 3%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blueviolet;
 }
